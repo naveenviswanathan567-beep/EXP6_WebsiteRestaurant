@@ -1,6 +1,6 @@
 # Ex.06 Restaurant Website
 ## Date:
-20.12.2025
+20.12.25
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
@@ -161,12 +161,11 @@ Publish the website in the given URL.
 
 </body>
 </html>
+
 ```
 
 ## OUTPUT:
-<img width="1920" height="1080" alt="Screenshot 2025-12-24 093209" src="https://github.com/user-attachments/assets/8725ee51-74d1-42cc-b4f6-0f7f074ede4b" />
-<img width="1920" height="1080" alt="Screenshot 2025-12-24 093202" src="https://github.com/user-attachments/assets/7e00ae92-04e5-40ce-a60c-07bc39a31611" />
-
-
+![alt text](<Screenshot 2025-12-24 093202.png>)
+![alt text](<Screenshot 2025-12-24 093209.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
